@@ -1,0 +1,5 @@
+mpi4py==3.1.5
+numba==0.58.1
+numpy==1.23.5
+osmnx==1.9.1
+repast4py==1.1.4
